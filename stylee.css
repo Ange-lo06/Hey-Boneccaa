@@ -9,6 +9,13 @@ body{
 	background-color: #ddd9ce;
 	overflow-x: hidden;
 }
+.icone-a{
+  float: right;
+  margin: 20px;
+  color: black;
+  width: 50px;
+  height: 50px;
+}
 a {
 	cursor: pointer;
   transition: all 200ms linear;
@@ -36,7 +43,7 @@ h6 span{
   font-weight: 700;
 }
 .section{
-  position: relative;
+  /*position: relative;*/
   width: 100%;
   display: block;
 }
